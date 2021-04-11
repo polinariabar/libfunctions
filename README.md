@@ -1,5 +1,4 @@
 # libfunctions (april-june 2020. school21 projects)
-(april-june 2020. school21 projects)
 native implementation of some library functions
 ---
 ## printf folder
